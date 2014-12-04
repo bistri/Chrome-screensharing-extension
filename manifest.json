@@ -1,7 +1,7 @@
 {
     "name": "Bistri Screen Sharing",
     "description": "This extension allows you to share your screen",
-    "version": "1",
+    "version": "1.1",
     "manifest_version": 2,
     "minimum_chrome_version": "34",
     "icons": {
